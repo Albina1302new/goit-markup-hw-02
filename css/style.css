@@ -25,17 +25,17 @@ ul,ol {
     text-transform: uppercase;
     color: #2e2f42;
 }
-.item-nav {
+.list-nav {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.item-nav:hover{
+.list-nav:hover{
     color:#404bbf;
 }
-.item-nav:focus{
+.list-nav:focus{
     color:#404bbf;
 }
 .contacts {
