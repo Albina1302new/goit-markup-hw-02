@@ -25,34 +25,34 @@ ul,ol {
     text-transform: uppercase;
     color: #2e2f42;
 }
-.list-nav {
+.link-nav {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.list-nav:hover{
+.link-nav:hover{
     color:#404bbf;
 }
-.list-nav:focus{
+.link-nav:focus{
     color:#404bbf;
 }
 .contacts {
     font-style: normal;
 }
-.contacts-list{
+.contacts-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
-.contacts-list:hover{
+.contacts-link:hover{
     color:#404bbf;
   
 }
-.contacts-list:focus{
+.contacts-link:focus{
     color:#404bbf;
 }
 .page-button{
@@ -102,8 +102,8 @@ ul,ol {
 }
 .team-title{
     font-weight: 500;
-    font-size: 36px;
-    line-height: 1.11;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
