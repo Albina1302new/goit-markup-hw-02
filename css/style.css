@@ -103,9 +103,10 @@ ul,ol {
 .team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -115,8 +116,8 @@ ul,ol {
 
 .item-name{
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size:20px;
+    line-height:1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -159,7 +160,7 @@ ul,ol {
 .footer{
     background: #2e2f42;
 }
-.logo-footer .logo-footer-part {
+.logo-footer, .logo-footer-part {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
